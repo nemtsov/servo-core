@@ -1,0 +1,11 @@
+node_modules/*
+target
+coverage
+.DS_Store
+.idea
+lib/build/builder.tar
+report
+.env
+npm-debug.log
+
+!node_modules/_
